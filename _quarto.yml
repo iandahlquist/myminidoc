@@ -2,6 +2,14 @@ project:
   type: website
 
 website:
+  page-footer:
+    background: primary
+    left: "&copy:2026, Ian Dahlquist"
+    center: "Built with [Quarto](https://quarto.org)"
+    right:
+      - icon: github
+        href: https://github.com/iandahlquist
+
   title: "today"
   navbar:
     left:
