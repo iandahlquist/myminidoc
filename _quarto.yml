@@ -19,9 +19,9 @@ website:
     contents:
       - text: "Home"
         href: index.qmd
-      - page1.qmd
-      - page2.qmd
-      - page3.qmd
+      - metis and theory.qmd
+      - contentops.qmd
+      - case studies.qmd
 
 format:
   html:
