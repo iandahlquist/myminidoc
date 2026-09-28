@@ -17,7 +17,6 @@ website:
     background: secondary
     search: true
     contents:
-        href: index.qmd
       - metis and theory.qmd
       - contentops.qmd
       - case studies.qmd
