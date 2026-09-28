@@ -22,7 +22,7 @@ Use:
 control + C
 ```
 
-To terminate the preview. 
+to terminate the preview. 
 
 ## Render the Website
 
@@ -32,10 +32,9 @@ To generate the complete website, use the command:
 quarto render
 ```
 in the project terminal. 
-
 By default, the rendered site will be written to the "_site" directory. 
 
 ## Publishing
 
-The webstire can now be published using GitHub Pages. Make sure to push and committ all changes!
+The webstite can now be published using GitHub Pages. Make sure to push and committ all changes!
 
