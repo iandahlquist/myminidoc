@@ -1,2 +1,14 @@
-# Homepage
-Welcome to my homepage!
+---
+title: "Home"
+---
+Welcome to the Homepage of myminidoc site!
+
+## Purpose
+
+This site exsist in two parts. 
+
+-The first is to fulfill a class assignment, working within VS Code and Quarto to create a usable website. 
+
+-The second is to begin to explore the beginnings of my final project, presenting the early stages of my thoughts on Dark Rhetoric and its involvement in the athletic communication within college sports. 
+
+

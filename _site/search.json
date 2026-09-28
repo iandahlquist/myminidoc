@@ -2,11 +2,21 @@
   {
     "objectID": "page1.html",
     "href": "page1.html",
-    "title": "Page 1",
+    "title": "Dark Rhetoric",
     "section": "",
-    "text": "Page 1\nThis is page 1.",
+    "text": "Dark Rhetoric is often used to describe and understand how language and communication is used to manipulate and deceive others in a seemingly harmful way. This type of rhetoric often involves using persuassion, ethos, and manipulative language to achieve a desired outcome, often overlooking truth or ethics.",
     "crumbs": [
-      "Page 1"
+      "Dark Rhetoric"
+    ]
+  },
+  {
+    "objectID": "page1.html#dark-rhetoric-1",
+    "href": "page1.html#dark-rhetoric-1",
+    "title": "Dark Rhetoric",
+    "section": "",
+    "text": "Dark Rhetoric is often used to describe and understand how language and communication is used to manipulate and deceive others in a seemingly harmful way. This type of rhetoric often involves using persuassion, ethos, and manipulative language to achieve a desired outcome, often overlooking truth or ethics.",
+    "crumbs": [
+      "Dark Rhetoric"
     ]
   },
   {
@@ -22,11 +32,11 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Homepage",
+    "title": "Home",
     "section": "",
-    "text": "Homepage\nWelcome to my homepage!",
+    "text": "Welcome to the homepage of myminidoc site!",
     "crumbs": [
-      "Welcome"
+      "Home"
     ]
   },
   {
@@ -37,6 +47,16 @@
     "text": "Page 3\nThis is page 3.",
     "crumbs": [
       "Page 3"
+    ]
+  },
+  {
+    "objectID": "index.html#purpose",
+    "href": "index.html#purpose",
+    "title": "Home",
+    "section": "Purpose",
+    "text": "Purpose\nThis site exsist in two parts.\n-The first is to fulfill a class assignment, working within VS Code and Quarto to create a usable website.\n-The second is to begin to explore the beginnings of my final project, presenting the early stages of my thoughts on Dark Rhetoric and its involvement in the athletic communication within college sports.",
+    "crumbs": [
+      "Home"
     ]
   }
 ]
