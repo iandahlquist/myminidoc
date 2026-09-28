@@ -1,1 +1,9 @@
 # ContentOps
+## Athletic ContentOps
+<div style="display: flex; gap: 15px; width: 100%;">
+  <img src="./publix/hiltonmagic.jpg" alt="A picture of Iowa State's student section during a basketball game" style="flex: 1; height: 250px; object-fit: cover;">
+  <img src="./publix/cyclonefans.jpg" alt="A picture of Iowa State's student section during a football game" style="flex: 1; height: 250px; object-fit: cover;">
+</div>
+
+#### ContentOps
+

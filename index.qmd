@@ -13,7 +13,7 @@ This site exsist in two parts.
 
 -The first is to fulfill a class assignment, working within VS Code and Quarto to create a usable website. 
 
--The second is to begin to explore the beginnings of my final project, presenting the early stages of my thoughts on Dark Rhetoric and its involvement in the athletic communication within college sports. 
+-The second is to begin to explore the beginnings of my final project, presenting the early stages of my thoughts on *Metis* and Deceptive Rhetoric and its involvement in the athletic communication within college sports. 
 
 ## Articles
 Each article serves to provide a brief understanding of my research topic, breaking into the beginnings of what will become hours upon hours of research and writing. 
