@@ -4,27 +4,39 @@
     "href": "page1.html",
     "title": "Page 1",
     "section": "",
-    "text": "Page 1"
+    "text": "Page 1\nThis is page 1.",
+    "crumbs": [
+      "Page 1"
+    ]
   },
   {
     "objectID": "page2.html",
     "href": "page2.html",
     "title": "Page 2",
     "section": "",
-    "text": "Page 2"
+    "text": "Page 2",
+    "crumbs": [
+      "Page 2"
+    ]
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Homepage",
     "section": "",
-    "text": "Homepage\nWelcome to my homepage!"
+    "text": "Homepage\nWelcome to my homepage!",
+    "crumbs": [
+      "Welcome"
+    ]
   },
   {
     "objectID": "page3.html",
     "href": "page3.html",
     "title": "Page 3",
     "section": "",
-    "text": "Page 3"
+    "text": "Page 3\nThis is page 3.",
+    "crumbs": [
+      "Page 3"
+    ]
   }
 ]

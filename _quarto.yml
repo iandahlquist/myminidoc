@@ -10,11 +10,15 @@ website:
       - icon: github
         href: https://github.com/iandahlquist
 
-  title: "today"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
+  title: "myminidocs"
+  
+  sidebar:
+    style: "docked"
+    background: secondary
+    search: true
+    contents:
+      - text: "Welcome"
+        href: index.qmd
       - page1.qmd
       - page2.qmd
       - page3.qmd
@@ -23,4 +27,4 @@ format:
   html:
     theme: pulse
     css: styles.css
-    toc: true
+    toc: false
